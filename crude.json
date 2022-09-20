@@ -8,6 +8,14 @@
     {
       "id" : 2,
       "name" : "GAZPROMNEFT"
-    }    
+    },
+    {
+      "id" : 3,
+      "name" : "NESTRO"
+    },
+    {
+      "id" : 4,
+      "name" : "ROSNEFT"
+    }   
   ]
 }
