@@ -17,5 +17,22 @@
       "id" : 4,
       "name" : "ROSNEFT"
     }   
-  ]
+  ],
+  
+  "additions" : [
+    {
+      "id" : 1,
+      "name" : "Of 15.75",
+      "text" : "Of vessel's arrival at Primorsk with manifolds' height above a sea level in ballast condition not more than 15.75 m (without listing)"
+    },
+    {
+      "id" : 2,
+      "name" : "Safety Inspection",
+      "text" : "A safety inspection will be provided in Primorsk Oil Terminal (at no charge)"
+    },
+    {
+      "id" : 3,
+      "name" : "Of crew matrix",
+      "text" : "Of crew matrix: months tour: will not exceed 6 months"
+    },
 }
