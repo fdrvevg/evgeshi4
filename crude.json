@@ -1,13 +1,13 @@
 {
   "company" : [
     {
-      "id" : 1
-      "name" : "LUKOIL",
+      "id" : 1,
+      "name" : "LUKOIL"
     },
     
     {
-      "id" : 2
-      "name" : "GAZPROMNEFT",
+      "id" : 2,
+      "name" : "GAZPROMNEFT"
     }    
   ]
 }
