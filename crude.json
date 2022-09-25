@@ -27,13 +27,19 @@
     },
     {
       "id" : 2,
-      "name" : "Safety Inspection",
-      "text" : "A safety inspection will be provided in Primorsk Oil Terminal (at no charge)"
+      "name" : "16” presentation flanges",
+      "text" : "Of the vessel’s 16” presentation flanges are polished, plain (flat) and clean (without any obstruction and rust)"
     },
+
     {
       "id" : 3,
       "name" : "Of crew matrix",
       "text" : "Of crew matrix: months tour: will not exceed 6 months"
+    },
+    {
+      "id" : 4,
+      "name" : "Safety Inspection",
+      "text" : "A safety inspection will be provided in Primorsk Oil Terminal (at no charge)"
     }
  ]
 }
