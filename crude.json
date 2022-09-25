@@ -7,7 +7,7 @@
 
     {
       "id" : 2,
-      "name" : "GAZPROMNEFT"
+      "name" : "GAZPROM-NEFT"
     },
     {
       "id" : 3,
@@ -16,7 +16,43 @@
     {
       "id" : 4,
       "name" : "ROSNEFT"
-    }   
+    },
+    {
+      "id" : 5,
+      "name" : "SURGUTNEFTEGAS"
+    },
+    {
+      "id" : 6,
+      "name" : "NEFTISA"
+    },
+    {
+      "id" : 7,
+      "name" : "UDS GROUP"
+    },
+    {
+      "id" : 8,
+      "name" : "RUSINVEST"
+    },
+    {
+      "id" : 9,
+      "name" : "TATNEFT"
+    },
+    {
+      "id" : 10,
+      "name" : "ZARUBEZHNEFT"
+    },
+    {
+      "id" : 11,
+      "name" : "ECONOMOU"
+    },
+    {
+      "id" : 12,
+      "name" : "VOSTOCHNAYA SIBIR"
+    },
+    {
+      "id" : 13,
+      "name" : "INFOTECH BALTIKA"
+    }
   ],
   
   "additions" : [
